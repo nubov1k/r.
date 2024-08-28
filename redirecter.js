@@ -5,6 +5,7 @@ const platform = window.location.search.split("?r=")[1] || window.location.hash.
 const urls = {
   "kladmen-rabota": "https://youtu.be/dQw4w9WgXcQ",
   "flameout-rip": "https://t.me/flameoutupdates/845",
+  idiot: "https://content.any.run/tasks/3fcedf91-62d4-4b63-a18d-e7f13b6a9959/download/screens/12ad0893-3462-43d0-b675-22cdb1b13330/image.jpeg",
   screenshot: "https://nubovik01.github.io/prntsc-screamer",
   "ds-serv": "https://discord.gg/EJc8UC7yhZ",
   ds: "https://discord.gg/EJc8UC7yhZ",
