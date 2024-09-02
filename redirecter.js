@@ -30,8 +30,8 @@ const urls = {
   ymuz: "music.yandex.ru/users/Nubovikgg/",
   flame: "nubovik.gitbook.io/flameout",
   "flameout-rip": "t.me/flameoutupdates/845",
-  status: "https://stats.uptimerobot.com/auqO4VrKOf",
-  uptime: "https://stats.uptimerobot.com/auqO4VrKOf"
+  status: "stats.uptimerobot.com/auqO4VrKOf",
+  uptime: "stats.uptimerobot.com/auqO4VrKOf"
 };
 
 if (platform && urls[platform]) window.location.href = "https://" + urls[platform];
