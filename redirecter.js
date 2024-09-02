@@ -18,6 +18,8 @@ const urls = {
   tg: "https://t.me/qwkrzbot",
   faq: "https://t.me/qwkrzfaq",
   gh: "https://github.com/nubovik01",
+  "gh-site-repo": "https://github.com/nubovik01/nubovik01.github.io",
+  "gh-flamebot-repo": "https://github.com/nubovik01/flamebot",
   circus: "https://t.me/nbvkcircus",
   pint: "https://ru.pinterest.com/qwkrtezzz",
   twx: "https://x.com/impostornubovik",
@@ -29,7 +31,7 @@ const urls = {
 
 if (platform && urls[platform]) window.location.href = urls[platform];
 
-if (!urls[platform]) console.log("[!] There doesn't seem to be such a redirect...");
+if (!urls[platform]) console.log("[*] There doesn't seem to be such a redirect...");
 
 if (!urls[platform] && window.location.host === "r.kittyy.ru") {
   window.location.href = "https://nbvk.kittyy.ru";
