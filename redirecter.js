@@ -3,33 +3,36 @@
 
 const platform = window.location.search.split("?r=")[1] || window.location.hash.split("#")[1];
 const urls = {
-  "kladmen-rabota": "https://youtu.be/dQw4w9WgXcQ",
-  "flameout-rip": "https://t.me/flameoutupdates/845",
-  idiot: "https://content.any.run/tasks/3fcedf91-62d4-4b63-a18d-e7f13b6a9959/download/screens/12ad0893-3462-43d0-b675-22cdb1b13330/image.jpeg",
-  screenshot: "https://nubovik01.github.io/prntsc-screamer",
-  "ds-serv": "https://discord.gg/EJc8UC7yhZ",
-  ds: "https://discord.gg/EJc8UC7yhZ",
-  vk: "https://vk.com/qwkrtezzz",
-  blog: "https://t.me/nbvkxd",
-  bio: "https://t.me/nbvkbio",
-  mt: "https://monkeytype.com/profile/qwkrtezzz",
-  spotify: "https://open.spotify.com/user/tx9f1ojp5ghsdkbsrn085sn2k",
-  tt: "https://tiktok.com/@nubovik",
-  tg: "https://t.me/qwkrzbot",
-  faq: "https://t.me/qwkrzfaq",
-  gh: "https://github.com/nubovik01",
-  "gh-site-repo": "https://github.com/nubovik01/nubovik01.github.io",
-  "gh-flamebot-repo": "https://github.com/nubovik01/flamebot",
-  circus: "https://t.me/nbvkcircus",
-  pint: "https://ru.pinterest.com/qwkrtezzz",
-  twx: "https://x.com/impostornubovik",
-  redit: "https://reddit.com/user/nubovik01",
-  dnt: "https://telegra.ph/tip-me-05-10",
-  stim: "https://steamcommunity.com/id/nubovik01",
-  ymuz: "https://music.yandex.ru/users/Nubovikgg/"
+  "kladmen-rabota": "youtu.be/dQw4w9WgXcQ",
+  idiot: "cdn1.picturebb.com/1/2024/09/02/8daJw.jpg",
+  screenshot: "nubovik01.github.io/prntsc-screamer",
+  "ds-serv": "discord.gg/EJc8UC7yhZ",
+  ds: "discord.gg/EJc8UC7yhZ",
+  vk: "vk.com/qwkrtezzz",
+  blog: "t.me/nbvkxd",
+  bio: "t.me/nbvkbio",
+  mt: "monkeytype.com/profile/qwkrtezzz",
+  spotify: "open.spotify.com/user/tx9f1ojp5ghsdkbsrn085sn2k",
+  tt: "tiktok.com/@nubovik",
+  tg: "t.me/qwkrzbot",
+  "tg-flame": "t.me/flameoutupdates",
+  faq: "t.me/qwkrzfaq",
+  gh: "github.com/nubovik01",
+  "gh-site-repo": "github.com/nubovik01/nubovik01.github.io",
+  "gh-flamebot-repo": "github.com/nubovik01/flamebot",
+  "gh-redirecter-repo": "github.com/nubov1k/redirecter",
+  circus: "t.me/nbvkcircus",
+  pint: "ru.pinterest.com/qwkrtezzz",
+  twx: "x.com/impostornubovik",
+  redit: "reddit.com/user/nubovik01",
+  dnt: "telegra.ph/tip-me-05-10",
+  stim: "steamcommunity.com/id/nubovik01",
+  ymuz: "music.yandex.ru/users/Nubovikgg/",
+  flame: "nubovik.gitbook.io/flameout",
+  "flameout-rip": "t.me/flameoutupdates/845"
 };
 
-if (platform && urls[platform]) window.location.href = urls[platform];
+if (platform && urls[platform]) window.location.href = "https://" + urls[platform];
 
 if (!urls[platform]) console.log("[*] There doesn't seem to be such a redirect...");
 
