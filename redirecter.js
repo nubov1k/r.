@@ -29,7 +29,9 @@ const urls = {
   stim: "steamcommunity.com/id/nubovik01",
   ymuz: "music.yandex.ru/users/Nubovikgg/",
   flame: "nubovik.gitbook.io/flameout",
-  "flameout-rip": "t.me/flameoutupdates/845"
+  "flameout-rip": "t.me/flameoutupdates/845",
+  status: "https://stats.uptimerobot.com/auqO4VrKOf",
+  uptime: "https://stats.uptimerobot.com/auqO4VrKOf"
 };
 
 if (platform && urls[platform]) window.location.href = "https://" + urls[platform];
