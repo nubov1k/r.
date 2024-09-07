@@ -13,6 +13,7 @@ const urls = {
   bio: "t.me/nbvkbio",
   mt: "monkeytype.com/profile/qwkrtezzz",
   spotify: "open.spotify.com/user/tx9f1ojp5ghsdkbsrn085sn2k",
+  spoti: "open.spotify.com/user/tx9f1ojp5ghsdkbsrn085sn2k",
   tt: "tiktok.com/@nubovik",
   tg: "t.me/qwkrzbot",
   "tg-flame": "t.me/flameoutupdates",
