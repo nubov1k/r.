@@ -8,6 +8,7 @@ const urls = {
   screenshot: "nubovik01.github.io/prntsc-screamer",
   "ds-serv": "discord.gg/EJc8UC7yhZ",
   ds: "discord.gg/EJc8UC7yhZ",
+  dsuz: "discord.com/users/454314234830913557",
   vk: "vk.com/qwkrtezzz",
   blog: "t.me/nbvkxd",
   bio: "t.me/nbvkbio",
