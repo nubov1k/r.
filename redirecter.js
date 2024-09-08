@@ -32,7 +32,8 @@ const urls = {
   flame: "nubovik.gitbook.io/flameout",
   "flameout-rip": "t.me/flameoutupdates/845",
   status: "stats.uptimerobot.com/auqO4VrKOf",
-  uptime: "stats.uptimerobot.com/auqO4VrKOf"
+  uptime: "stats.uptimerobot.com/auqO4VrKOf",
+  tempa: "https://nbvk.kittyy.ru/temperature/"
 };
 
 if (platform && urls[platform]) window.location.href = "https://" + urls[platform];
