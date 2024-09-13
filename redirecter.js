@@ -12,6 +12,7 @@ const urls = {
   vk: "vk.com/qwkrtezzz",
   blog: "t.me/nbvkxd",
   bio: "t.me/nbvkbio",
+  tgch: "t.me/+zKh2bytYFakxZGQ6",
   mt: "monkeytype.com/profile/qwkrtezzz",
   spotify: "open.spotify.com/user/tx9f1ojp5ghsdkbsrn085sn2k",
   spoti: "open.spotify.com/user/tx9f1ojp5ghsdkbsrn085sn2k",
