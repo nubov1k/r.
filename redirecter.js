@@ -4,7 +4,7 @@
 const platform = window.location.search.split("?r=")[1] || window.location.hash.split("#")[1];
 const urls = {
   "kladmen-rabota": "youtu.be/dQw4w9WgXcQ",
-  gDPI: "https://track24.ru/google/?q=site%3Agithub.com%20GoodbyeDPI",
+  gDPI: "track24.ru/google/?q=site%3Agithub.com%20GoodbyeDPI",
   idiot: "cdn1.picturebb.com/1/2024/09/02/8daJw.jpg",
   screenshot: "nubovik01.github.io/prntsc-screamer",
   "ds-serv": "discord.gg/EJc8UC7yhZ",
