@@ -26,6 +26,7 @@ const urls = {
   "gh-flamebot-repo": "github.com/nubovik01/flamebot",
   "gh-redirecter-repo": "github.com/nubov1k/redirecter",
   "gh-luchikbot-repo": "github.com/nubovik01/luchikbot",
+  "gh-pcb-repo": "https://github.com/nubovik01/phone-converter-bot",
   circus: "t.me/nbvkcircus",
   pint: "ru.pinterest.com/qwkrtezzz",
   twx: "x.com/impostornubovik",
