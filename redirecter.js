@@ -48,7 +48,8 @@ const urls = {
   "flameout-rip": "t.me/flameoutupdates/845",
   status: "stats.uptimerobot.com/auqO4VrKOf",
   uptime: "stats.uptimerobot.com/auqO4VrKOf",
-  tempa: "nubovik01.github.io/temperature"
+  tempa: "nubovik01.github.io/temperature",
+  "prntsc-screamer": "nubov1k.github.io/prntsc-screamer"
 };
 
 if (platform && urls[platform]) window.location.href = "https://" + urls[platform];
