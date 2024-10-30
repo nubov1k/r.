@@ -42,6 +42,7 @@ const urls = {
   twx: "x.com/impostornubovik",
   redit: "reddit.com/user/nubovik01",
   dnt: "telegra.ph/tip-me-plz-10-29",
+  ton: "tonviewer.com/EQAgs7JZNVxNlhCMsv_J__4cqcuYJS3Os--yoJydk-TCwyYV",
   stim: "steamcommunity.com/id/nubovik01",
   ymuz: "music.yandex.ru/users/Nubovikgg/",
   flame: "nubovik.gitbook.io/flameout",
