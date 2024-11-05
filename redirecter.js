@@ -37,6 +37,7 @@ const urls = {
   "gh-redirecter-repo": "github.com/nubov1k/redirecter",
   "gh-luchikbot-repo": "github.com/nubovik01/luchikbot",
   "gh-pcb-repo": "github.com/nubovik01/phone-converter-bot",
+  "bulky": "github.com/nubovik01/bulky-userbot",
   circus: "t.me/nbvkcircus",
   pint: "ru.pinterest.com/qwkrtezzz",
   twx: "x.com/impostornubovik",
@@ -58,5 +59,5 @@ if (platform && urls[platform]) window.location.href = "https://" + urls[platfor
 if (!urls[platform]) console.log("[*] There doesn't seem to be such a redirect...");
 
 if (!urls[platform] && window.location.host === "r.kittyy.ru") {
-  window.location.href = "https://nbvk.kittyy.ru";
+  window.location.href = "https://nubovik01.github.io";
 };
