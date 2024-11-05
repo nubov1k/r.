@@ -44,7 +44,6 @@ const urls = {
   flame: "nubovik.gitbook.io/flameout",
   "flameout-rip": "t.me/flameoutupdates/845",
   status: "stats.uptimerobot.com/auqO4VrKOf",
-  tempa: "nubovik01.github.io/temperature",
   "prntsc-screamer": "nubov1k.github.io/prntsc-screamer"
 };
 
