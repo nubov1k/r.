@@ -34,6 +34,7 @@ const urls = {
   pcb: "github.com/nubovik01/phone-converter-bot",
   kakkoii: "github.com/nubovik01/kakkoii-spybot",
   bulky: "github.com/nubovik01/bulky-userbot",
+  "school-calc": "github.com/nubovik01/python-simple-calculator",
   circus: "t.me/nbvkcircus",
   pint: "ru.pinterest.com/qwkrtezzz",
   twx: "x.com/impostornubovik",
