@@ -7,35 +7,36 @@
 // huh, yeah, i know about apache and php but is not need for me
 // and... whatever my site is completely static lol
 
-// please don't cyberbully me, I'm just a stupid cute boy >.<
+// please don't cyberbully me, i'm just a silly cute boy >.<
+
+const unavailablePage = "kittyy.ru/unavailable.html";
 
 const platform = window.location.search.split("?r=")[1] || window.location.hash.split("#")[1];
 const urls = {
   "kladmen-rabota": "youtu.be/dQw4w9WgXcQ",
   "rick": "youtu.be/dQw4w9WgXcQ",
   screenshot: "nubovik01.github.io/prntsc-screamer",
+  ds: "discord.com/users/454314234830913557",
   "ds-serv": "discord.gg/EJc8UC7yhZ",
-  ds: "discord.gg/EJc8UC7yhZ",
-  dsuz: "discord.com/users/454314234830913557",
   vk: "vk.com/qwkrtezzz",
-  blog: "t.me/nbvkxd",
-  bio: "t.me/nbvkbio",
-  tgch: "t.me/+zKh2bytYFakxZGQ6",
+  blog: unavailablePage, // t.me/nbvkxd
+  bio: unavailablePage, // t.me/nbvkbio
+  tgch: unavailablePage, // t.me/+zKh2bytYFakxZGQ6
   mt: "monkeytype.com/profile/qwkrtezzz",
-  spotify: "open.spotify.com/user/tx9f1ojp5ghsdkbsrn085sn2k",
   spoti: "open.spotify.com/user/tx9f1ojp5ghsdkbsrn085sn2k",
   inst: "instagram.com/nubovik01",
   tt: "tiktok.com/@MS4wLjABAAAA_5B8WvP070s2dUiO0b44jeTljgEh8xSsiDPz8o2PazArEbbkUzZCUEmSdBlR9dwG",
   tg: "t.me/qwkrzbot",
   "tg-flame": "t.me/flameoutupdates",
-  faq: "t.me/qwkrzfaq",
+  faq: unavailablePage, // t.me/qwkrzfaq
   gh: "github.com/nubovik01",
   "gh-site-repo": "github.com/nubovik01/nubovik01.github.io",
+  "gh-python-calculator": "github.com/nubovik01/python-simple-calculator",
   pcb: "github.com/nubovik01/phone-converter-bot",
   kakkoii: "github.com/nubovik01/kakkoii-spybot",
   bulky: "github.com/nubovik01/bulky-userbot",
   "school-calc": "github.com/nubovik01/python-simple-calculator",
-  circus: "t.me/nbvkcircus",
+  circus: unavailablePage, // t.me/nbvkcircus
   pint: "ru.pinterest.com/qwkrtezzz",
   twx: "x.com/impostornubovik",
   redit: "reddit.com/user/nubovik01",
