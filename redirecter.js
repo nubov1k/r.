@@ -19,16 +19,16 @@ const urls = {
   ds: "discord.com/users/454314234830913557",
   "ds-serv": "discord.gg/EJc8UC7yhZ",
   vk: "vk.com/qwkrtezzz",
-  blog: unavailablePage, // t.me/nbvkxd
-  bio: unavailablePage, // t.me/nbvkbio
-  tgch: unavailablePage, // t.me/+zKh2bytYFakxZGQ6
+  blog: "t.me/nbvkxd",
+  bio: "t.me/nbvkbio",
+  tgch: "t.me/+zKh2bytYFakxZGQ6",
   mt: "monkeytype.com/profile/qwkrtezzz",
   spoti: "open.spotify.com/user/tx9f1ojp5ghsdkbsrn085sn2k",
   inst: "instagram.com/nubovik01",
   tt: "tiktok.com/@MS4wLjABAAAA_5B8WvP070s2dUiO0b44jeTljgEh8xSsiDPz8o2PazArEbbkUzZCUEmSdBlR9dwG",
   tg: "t.me/qwkrzbot",
   "tg-flame": "t.me/flameoutupdates",
-  faq: unavailablePage, // t.me/qwkrzfaq
+  faq: "t.me/qwkrzfaq",
   gh: "github.com/nubovik01",
   "gh-site-repo": "github.com/nubovik01/nubovik01.github.io",
   "gh-python-calculator": "github.com/nubovik01/python-simple-calculator",
@@ -36,7 +36,7 @@ const urls = {
   kakkoii: "github.com/nubovik01/kakkoii-spybot",
   bulky: "github.com/nubovik01/bulky-userbot",
   "school-calc": "github.com/nubovik01/python-simple-calculator",
-  circus: unavailablePage, // t.me/nbvkcircus
+  circus: "t.me/nbvkcircus",
   pint: "ru.pinterest.com/qwkrtezzz",
   twx: "x.com/impostornubovik",
   redit: "reddit.com/user/nubovik01",
