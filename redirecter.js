@@ -47,7 +47,8 @@ const urls = {
   flame: "nubovik.gitbook.io/flameout",
   "flameout-rip": "t.me/flameoutupdates/845",
   status: "stats.uptimerobot.com/auqO4VrKOf",
-  "prntsc-screamer": "nubov1k.github.io/prntsc-screamer"
+  "prntsc-screamer": "nubov1k.github.io/prntsc-screamer",
+  "wktm": "https://wakatime.com/@nubovik"
 };
 
 if (platform && urls[platform]) window.location.href = "https://" + urls[platform];
