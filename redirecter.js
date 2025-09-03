@@ -9,6 +9,8 @@
 
 // please don't cyberbully me, i'm just a silly cute boy >.<
 
+// @TODO: maybe make an api out of this? [3 September 2025 06:54:47 PM (UTC+3)]
+
 const unavailablePage = "kittyy.ru/unavailable.html";
 
 const platform = window.location.search.split("?r=")[1] || window.location.hash.split("#")[1];
