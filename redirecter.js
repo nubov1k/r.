@@ -26,7 +26,7 @@ const urls = {
   tgch: "t.me/+zKh2bytYFakxZGQ6",
   mt: "monkeytype.com/profile/qwkrtezzz",
   spoti: "open.spotify.com/user/tx9f1ojp5ghsdkbsrn085sn2k",
-  inst: "instagram.com/nubovik01",
+  inst: "instagram.com/teez2157",
   tt: "tiktok.com/@MS4wLjABAAAA_5B8WvP070s2dUiO0b44jeTljgEh8xSsiDPz8o2PazArEbbkUzZCUEmSdBlR9dwG",
   tg: "t.me/qwkrzbot",
   "tg-flame": "t.me/flameoutupdates",
